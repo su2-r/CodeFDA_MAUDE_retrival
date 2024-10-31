@@ -1,4 +1,4 @@
-Code snippet
+# Code snippet
 # Query MAUDE
 maude <- data.frame()
 my_api_key <- Sys.getenv("FDAapiKey")
